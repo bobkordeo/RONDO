@@ -1,0 +1,29 @@
+site_name: ILO
+
+nav:
+  - Home: index.md
+  - Asocio:
+    - Statuts: Asocio/statuts_ILO.md
+    - La revmedikamenta trinkaĵo: Asocio/potion.md
+    - AG:
+      - AG_2018: Asocio/AG_2018.md
+      - AG_2019: Asocio/AG_2019.md
+    - Concerts:
+      - Dampière: Asocio/dampiere.md
+      - Le Chesnay: Asocio/le_chesnay.md
+  - Kursoj:
+    - Historio: Kursoj/historio.md
+    - Gramatiko: Kursoj/gramatiko.md
+  - Tradukoj: Tradukoj/tradukoj.md 
+
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: light green
+    accent: light green
+    
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
