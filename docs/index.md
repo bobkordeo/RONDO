@@ -44,8 +44,8 @@ nedependa de iu politika aŭ sindikata organizaĵo**
 
 ## Artikoloj, libroj, intervjuoj kaj aliaj dokumentoj
 
-* Vidéo : [Learn Esperanto first](https://www.youtube.com/watch?v=8gSAkUOElsg), Tim Morley (TEDxGranta).
 * [Le mouvement international des travailleurs espérantistes 1918–1939](./Dokumentoj/asmaitrise.pdf), Ansofi Markov, mémoire de maîtrise d'histoire, juin 1999.
+* Vidéo : [Learn Esperanto first](https://www.youtube.com/watch?v=8gSAkUOElsg), Tim Morley (TEDxGranta).
 
 ## Ligoj al aliaj esperanto-asociaj retejoj
 

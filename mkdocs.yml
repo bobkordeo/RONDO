@@ -17,11 +17,10 @@ nav:
   - Tradukoj: Tradukoj/tradukoj.md 
 
 theme:
-  name: material
-  language: fr
+  name: 'material'
+  language: 'fr'
   palette:
-    primary: light green
-    accent: light green
+    primary: 'green'
     
 markdown_extensions:
   - admonition
