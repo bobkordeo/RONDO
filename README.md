@@ -1,2 +1,0 @@
-# ILO
-[index](index.md)
