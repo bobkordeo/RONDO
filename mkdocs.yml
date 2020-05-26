@@ -1,14 +1,14 @@
 site_name: ILO
 
 nav:
-  - Home: index.md
+  - Bonnvenon: index.md
   - Asocio:
-    - Statuts: Asocio/statuts_ILO.md
-    - La revmedikamenta trinkaĵo: Asocio/potion.md
-    - AG:
+    - Statuso: Asocio/statuts_ILO.md
+    - La "revmedikamenta trinkaĵo": Asocio/potion.md
+    - Ĝeneralaj asembleoj:
       - AG_2018: Asocio/AG_2018.md
       - AG_2019: Asocio/AG_2019.md
-    - Concerts:
+    - Koncertoj:
       - Dampière: Asocio/dampiere.md
       - Le Chesnay: Asocio/le_chesnay.md
   - Kursoj:
