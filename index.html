@@ -177,11 +177,23 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
     <p><center></p>
 <h1 id="bienvenue-bonvenon-al-rondo">Bienvenue ! / Bonvenon al RONDO!</h1>
 <p><img alt="ilo" src="bildoj/rondo_2.png" /></p>
-<p>Vizitantoj: <script type="text/javascript" src="//compteur.websiteout.com/js/2/0/10/0"></script></p>
+<!-- Vizitantoj: <script type="text/javascript" src="//compteur.websiteout.com/js/2/0/10/0"></script> -->
+
+<script>
+function cb(response) {
+    document.getElementById('visits').innerText = response.value;
+}
+</script>
+<script async src="https://api.countapi.xyz/hit/annoa1.github.io/visits?callback=cb"></script>
+
+<div>Vizitantoj : <span id="visits">[ce text va être remplacé par le nombre]</span></div>
+
+<hr />
 <p><strong>RONDO est un cercle culturel espérantiste local<br />
  indépendant de toute organisation politique ou syndicale</strong></p>
 <p><strong>RONDO estas kultura esperantista rondo<br />
 nedependa de iu politika aŭ sindikata organizaĵo</strong></p>
+<hr />
 <p><img alt="Ukraine" src="bildoj/ukraine_15.png" /> <strong><a href="https://uea.org/gk/1026">RONDO se joint à la déclaration humaniste de l'UEA</a></strong> <img alt="Ukraine" src="bildoj/ukraine_15.png" /></p>
 <p></center></p>
 <h2 id="contact-kontakto">Contact / Kontakto</h2>
@@ -229,5 +241,5 @@ nedependa de iu politika aŭ sindikata organizaĵo</strong></p>
 </html>
 <!--
 MkDocs version : 1.2.2
-Build Date UTC : 2022-04-25 15:52:45.207772+00:00
+Build Date UTC : 2022-04-26 12:12:25.680982+00:00
 -->
